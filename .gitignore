@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files - We want to keep the repo small
+# It's good practice to not commit data files. The README will link to the source.
+data/
+
+# IDE / Editor specific
+.vscode/
+.idea/
